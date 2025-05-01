@@ -16,4 +16,6 @@
 img{
     max-width: 55%;
     max-height: auto;
+    width: auto;
+    height: auto;
 }
